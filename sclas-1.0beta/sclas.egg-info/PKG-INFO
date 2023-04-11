@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: sclas
+Version: 1.0b0
+Summary: Aggregation of machine learning codes to do reduce the dimensionality of images and do their classification.
+Author-email: thibault.kuntzer@epfl.ch
