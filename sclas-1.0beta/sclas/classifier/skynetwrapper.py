@@ -51,7 +51,7 @@ def writedata(filename, inputs, outputs=None, noutput=1):
 	Having the correct number of output labels seems mandatory for SkyNet.
 	
 	"""
-	if outputs == None:
+	if isinstance(outputs,type(None)):
 		outputs = np.zeros(shape=(np.shape(inputs)[0], noutput))
 	assert np.shape(inputs)[0] == np.shape(outputs)[0]
 	ndp = np.shape(inputs)[0]
