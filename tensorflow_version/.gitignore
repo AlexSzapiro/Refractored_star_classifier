@@ -3,3 +3,4 @@ my_model/
 single_model/
 PCA_dataset1.npy
 TFClassifier.py
+.DS_Store
