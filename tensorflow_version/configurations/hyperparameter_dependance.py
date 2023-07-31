@@ -1,5 +1,7 @@
 #!
 
+# Script to train various configurations of networks
+
 import numpy as np
 import tensorflow as tf
 import time
