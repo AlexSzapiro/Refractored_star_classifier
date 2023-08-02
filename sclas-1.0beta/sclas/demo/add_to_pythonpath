@@ -1,2 +1,0 @@
-export PYTHONPATH=${PYTHONPATH}:/absolute/path/to/sclas/
-
