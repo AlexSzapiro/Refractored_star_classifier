@@ -1,3 +1,5 @@
+# Refractored_star_classifier 
+
 Refactored version of the classifier presented in [arxiv:1605.03201][original_classifier]. Used in conjunction with [WaveDiff][wavediff_repo] with the intention of improving PSF quality by providing a higher number of stars with approximate SEDs.
 
 dataset_generation provides the code necessary to generate coherent datasets in a CPU cluster and then visualize the generated outputs.
